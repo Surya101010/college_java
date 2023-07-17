@@ -8,7 +8,7 @@ public int number_of_prime(int input1,int input2){
           break;
         }
       }
-      if(n=true){
+      if(n==true){
         count++;
       }
     }

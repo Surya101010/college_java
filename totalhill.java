@@ -1,5 +1,4 @@
-public int totalhill(int input1,int input2,int input3){
-    int sum=input2;
+public int totalhill(int input1,int input2,int input3){    
     int temp=0;
     int t=0;
     for(int i=0;i<input1;i++){
